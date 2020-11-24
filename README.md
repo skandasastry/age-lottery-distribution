@@ -25,11 +25,11 @@ All the datasets I used can be found in the `csvs/` folder.
 ### Result Images
 
 #### Box and Whisker age distribution plot by Year
-![box and whisker plot](https://i.ibb.co/vx39XwF/age-lottery-boxplot.jpg)
+![box and whisker plot](https://i.ibb.co/Vw8mnzB/age-lottery-boxplot.jpg)
 
 
 #### Line plot of median age 
-![line plot](https://i.ibb.co/Vpfy1z8/age-lottery-lineplot.jpg)
+![line plot](https://i.ibb.co/rtvfMVX/age-lottery-lineplot.jpg)
 
 ### Interesting Results/Conclusions
 Some cool takeaways/highlights:
