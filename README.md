@@ -40,3 +40,9 @@ looking to make the jump straight to the NBA really opened.
 2. The distributions from 2015-2020 are similar (even skew younger) when compared to 1996 - 2004, in spite of the one-and-done rule age boost.
 
 3. Note the small jump in the distribution from 2005 to 2006, since this was the first year of the one-and-done rule which basically required prospects to attend one year of college before entering the league.
+
+
+### Acknowledgements
+- All data was pulled from the NBA API, which is a wrapper for stats.nba.com. You can find the project here https://github.com/swar/nba_api
+- Big thanks to reddit user [u/llimllib](reddit.com/u/llimllib) for showing me how to make boxplots in Python
+- Dates of draft to calculate actual age when drafted was scraped from Wikipedia page for each draft
