@@ -46,3 +46,4 @@ looking to make the jump straight to the NBA really opened.
 - All data was pulled from the NBA API, which is a wrapper for stats.nba.com. You can find the project here https://github.com/swar/nba_api
 - Big thanks to reddit user [u/llimllib](http://reddit.com/u/llimllib) for showing me how to make boxplots in Python
 - Dates of draft to calculate actual age when drafted was scraped from Wikipedia page for each draft
+- Used **matplotlib** and **Seaborn** to produce the visualizations, **pandas**/**numpy** for all data processing, and **datetime** for calculating player ages.
